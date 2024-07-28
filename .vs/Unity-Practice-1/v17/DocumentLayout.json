@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B76BF504-AFF2-B244-25A8-8CA0C61D3696}|Assembly-CSharp.csproj|C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\assets\\scripts\\respawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76BF504-AFF2-B244-25A8-8CA0C61D3696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76BF504-AFF2-B244-25A8-8CA0C61D3696}|Assembly-CSharp.csproj|c:\\users\\isakl\\onedrive\\documents\\unity projects\\unity-practice-1\\assets\\scripts\\healthscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76BF504-AFF2-B244-25A8-8CA0C61D3696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76BF504-AFF2-B244-25A8-8CA0C61D3696}|Assembly-CSharp.csproj|c:\\users\\isakl\\onedrive\\documents\\unity projects\\unity-practice-1\\assets\\scripts\\getrespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76BF504-AFF2-B244-25A8-8CA0C61D3696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\getrespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetRespawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\Assets\\Scripts\\GetRespawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GetRespawnScript.cs",
+              "ToolTip": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\Assets\\Scripts\\GetRespawnScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GetRespawnScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:15:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthScript.cs",
+              "DocumentMoniker": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\Assets\\Scripts\\HealthScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthScript.cs",
+              "ToolTip": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\Assets\\Scripts\\HealthScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:03:24.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RespawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\Assets\\Scripts\\RespawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RespawnScript.cs",
+              "ToolTip": "C:\\Users\\isakl\\OneDrive\\Documents\\Unity Projects\\Unity-Practice-1\\Assets\\Scripts\\RespawnScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RespawnScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:01:56.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

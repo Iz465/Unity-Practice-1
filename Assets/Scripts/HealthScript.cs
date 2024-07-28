@@ -26,16 +26,9 @@ public class HealthScript : MonoBehaviour
         if (health <= 0)
         {
             Debug.Log("Dead");
-            try
-            {
-                RespawnScript.Instance.RespawnEnemy(); // this starts the respawnenemy function to respawn the enemy. // this is not activating right now
-            }
-            catch (System.Exception e)
-            {
-                
-                    Debug.LogException(e);
-                
-            }
+         
+            RespawnScript.Instance.RespawnEnemy(); // this starts the respawnenemy function to respawn the enemy. // this is not activating right now
+           
             Debug.Log("Starting Destroy");
             Destroy(gameObject);
             

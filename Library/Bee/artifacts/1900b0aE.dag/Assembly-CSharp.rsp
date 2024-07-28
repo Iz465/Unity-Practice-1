@@ -385,6 +385,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/GetRespawnScript.cs"
 "Assets/Scripts/HealthScript.cs"
 "Assets/Scripts/JumpScript.cs"
 "Assets/Scripts/MovementScript.cs"

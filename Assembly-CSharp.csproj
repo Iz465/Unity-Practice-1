@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\HealthScript.cs" />
     <Compile Include="Assets\Scripts\PracticeScript.cs" />
     <Compile Include="Assets\Scripts\ProjectileCollision.cs" />
+    <Compile Include="Assets\Scripts\GetRespawnScript.cs" />
     <Compile Include="Assets\Scripts\JumpScript.cs" />
   </ItemGroup>
   <ItemGroup>
